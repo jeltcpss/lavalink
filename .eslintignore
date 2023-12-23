@@ -1,8 +1,0 @@
-config
-dist
-docs
-node_modules
-testBot
-tools
-.*.js
-.*.ts
